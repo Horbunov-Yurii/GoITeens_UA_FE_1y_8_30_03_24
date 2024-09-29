@@ -1,0 +1,12 @@
+.hits-icon {
+    width: 28px;
+    height: 28px;
+    fill: #B02E51;
+}
+
+.hits-icon:hover {
+    fill: blue;
+    stroke: aqua;
+    stroke-width: 5px;
+    stroke-opacity: 0.5;
+}
